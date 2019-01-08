@@ -1,0 +1,18 @@
+Letter of Credit Request
+requestname1
+1.Advising bank:1
+2.Credit No.:1
+3.Beneficiary:1
+4.Applicant:1
+5.L/C Amount and Tolerance:1
+6.Type:Sight
+7.Partial shipment:Allowed
+8.Transshipment:Allowed
+9.Trnasport mode:Sea
+10.Loading(shipment from):1
+11.Discharging(shipment to):1
+12.Latest shipment date:2019-01-01
+13.All banking charges:Applicant
+14.Confirmation:Confirm
+15.T/T reimbursement:Allowed
+time2019-01-03_202629

@@ -1,0 +1,37 @@
+Letter of Credit
+(APPLICATION FOR IRREVOCABLE DOCUMENTARY CREDIT)
+kj
+1.Transfer:jk
+2.Credit Number: jkj
+3.Advising Bank:ln
+4.Expiry Date:l
+5.Applicant:nlk
+6.Beneficiary:nlk
+7.Amount:m
+8.Partial Shipment:lk
+9.Latest Shipment Date:2018-12-31
+10.Additional Conditions:lkm
+11.All banking charges:lk
+12.Documents delivered by:mk
+13.Confirmation:m
+14.Reissue:km
+15.Import L/C Transfer:km
+16.Draft at:m
+17.Usance:k
+18.SettlingBank:mm
+19.Credit:m
+20.Transshipment mode:m
+21.Authorization:m
+22.Port of Loading/Airport of Departurem
+23.Place of Taking in Charge:m
+24.SIgned/Original/Commercial Invoice :m
+25.FULL SET of B/L:m
+26.Certificate of Origin in :m
+27.Certificate of Analysis in :m
+28.Other Documents Required:d
+29.Description of Goods/Services:m
+30.Price Terms:m
+31.Country of Origin:m
+32.HS CODE:m
+33.CommodityDescription:m
+time2019-01-08_162212

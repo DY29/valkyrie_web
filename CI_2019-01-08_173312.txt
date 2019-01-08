@@ -1,0 +1,21 @@
+COMMECIAL INVOICE
+Invoice name:9
+1.Shipper/Seller:9
+2.Consignee:9
+3.Departure date:9
+4.Vessel/Flight:9
+5.From:9
+6.To:9
+7.Invoice No.and Date:9
+8.L/C No.and Date:9
+9.Buyer(if other than consignee):9
+10.Other reference:9
+11.Terms of delivery and payment:9
+12.Shipping Mark:9
+13.No.and kind of packages:9
+14.Goods description:9
+15.Quantity:9
+16.Unit price:9
+17. Amount:9
+18.Singed by:9
+time2019-01-08_173312

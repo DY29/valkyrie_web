@@ -1,0 +1,13 @@
+BILL OF LADING
+B/L:2
+1.Bank:2
+2.Nodify party:2
+3.Lessel:2
+4.Voyage No.:2
+5.Part of loading:2
+6.Place of receipt:2
+7.Place of delivery:2
+8.Description of goods:2
+9.Weight:2
+10.Measurement:2
+time2019-01-08_163747

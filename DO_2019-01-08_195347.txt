@@ -1,0 +1,10 @@
+DO
+D/O:9
+1.Agent name:9
+2.Restricted delivery(Yes or no):9
+3.Adult signature restriced delivery(Yes or no):9
+4.Agent Signture:9
+5.ID verified (yes or no):9
+6.USPS initals:9
+7.Date:9
+time2019-01-08_195347

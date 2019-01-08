@@ -1,0 +1,10 @@
+DO
+B/L:2
+1.Agent name:2
+2.Restricted delivery(Yes or no):2
+3.Adult signature restriced delivery(Yes or no):2
+4.Agent Signture:2
+5.ID verified (yes or no):2
+6.USPS initals:2
+7.Date:2
+time2019-01-08_163759

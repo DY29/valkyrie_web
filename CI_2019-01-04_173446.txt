@@ -1,0 +1,21 @@
+COMMECIAL INVOICE
+Invoice name:1
+1.Shipper/Seller:1
+2.Consignee:8
+3.Departure date:っ
+4.Vessel/Flight:9
+5.From:っ
+6.To:8
+7.Invoice No.and Date:ぬ
+8.L/C No.and Date:,
+9.Buyer(if other than consignee):づ
+10.Other reference:8
+11.Terms of delivery and payment:90
+12.Shipping Mark:ぬ
+13.No.and kind of packages:げ
+14.Goods description:ぬ
+15.Quantity:し
+16.Unit price:段
+17. Amount:908
+18.Singed by:9ず
+time2019-01-04_173446

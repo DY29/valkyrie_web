@@ -1,0 +1,18 @@
+SHIPPING REQUEST
+Request name:m
+1.Shipper:m
+2.Consignee:m
+3.Notify Party:m
+4.Vessel:m
+5.Voyage No.:m
+6.Port of Loading:m
+7.Port of Discharge:m
+8.Final Destination:m
+9.Marking:m
+10.Packages:m
+11.Description of Goods:m
+12.Gross Weight:m
+13.Measurement:m
+14.Freight Term:m
+15.Original B/L:m
+time2019-01-08_160602
